@@ -35,7 +35,10 @@ pip install -r requirements.txt
 python3 rev-counter.py
 ```
 
+
+## Circuit diagram
 ![Circuit Diagram](images/diagram.png)
 
 
+## Setup
 ![setup](images/setup.jpg)
