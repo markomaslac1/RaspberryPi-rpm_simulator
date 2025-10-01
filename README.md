@@ -38,4 +38,4 @@ python3 rev-counter.py
 ![Circuit Diagram](images/diagram.png)
 
 
-![setup](images/wiring.jpg)
+![setup](images/setup.jpg)
