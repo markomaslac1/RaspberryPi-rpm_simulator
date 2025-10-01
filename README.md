@@ -35,9 +35,7 @@ pip install -r requirements.txt
 python3 rev-counter.py
 ```
 
-## Circuit Diagram
-![circuit](rev-counter_circuit1.png)
+![Circuit Diagram](images/diagram.png)
 
 
-## Physical Build
-![setup](setup.jpg)
+![setup](images/wiring.jpg)
